@@ -9,6 +9,7 @@ h1 {
 section {
   float: left;
   background-color: #999999;
+  border: black
 }
 #section1{
   
