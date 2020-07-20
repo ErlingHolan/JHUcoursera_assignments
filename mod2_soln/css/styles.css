@@ -4,8 +4,17 @@ h1 {
 
 section {
   float: left
+  background-color: #999999;
 }
-
+#section1{
+  
+}
+#section2{
+  
+}
+#section3{
+  
+}
 
 /********** Desktop view **********/
 @media (min-width: 992px) {
